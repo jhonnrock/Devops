@@ -1,1 +1,3 @@
 my second featureB
+my second line of featureB
+my thirds line of featureB
